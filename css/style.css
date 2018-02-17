@@ -1,0 +1,25 @@
+body
+{
+  background-color:purple;
+}
+
+#div2
+{
+text-align:center;
+font-style:oblique;
+ 
+}
+#div1
+{
+  text-align:center;
+  background-color:pink;
+}
+#div3
+{
+  background-color:yellow;
+  font-style:oblique;
+}
+img
+{
+  width:200px;
+}
